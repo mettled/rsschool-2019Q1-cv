@@ -3,7 +3,7 @@
 ## **Personal Information**
 
 |Item|Value|
-|---|---|
+| --- | --- |
 |Name|Romaniuk Sergey|
 |Date of Birth|18.05.1981|
 |Mobile phone|+375 - 296437016|
