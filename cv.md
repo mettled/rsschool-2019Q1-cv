@@ -39,10 +39,10 @@ Main qualities:
 
 | Skill | Level | Short description |
 | --- | --- | --- |
-|PHP |basic||
-|HTML(CSS) |basic||
-|JavaScript |basic||
-|С# |basic||
+|PHP |basic|-|
+|HTML(CSS) |basic|-|
+|JavaScript |basic|-|
+|С# |basic|-|
 Trained in EPAM course SERVICENOW
 
 
@@ -59,7 +59,11 @@ Trained in EPAM course SERVICENOW
 |Time of work|Company|Job titlen|Duties|Skills|
 | --- | --- | --- | --- | --- |
 |February 2015 - pres-sent|”Sipcom” Ltd.|Engineer – programmer|Communication with the cus-tomer, selection of equipment and ect.|CoDeSys, Step-7, masterscada, PhotoShop, JavaScript (basic), С# |
-
+|January 2010 - February 2015|”Izovac” Ltd.|Engineer – programmer the 1st category|Commissioning, programming of controllers and creating pro-jects scada-systems for sputter-ing system. Analyzing of the equipment for  projects. Writing in C# libraries for scada-systems. |CoDeSys, Step-7, masterscada, PhotoShop, JavaScript (basic), С#|
+|October 2008-January 2010|”SPb-Avtomatika” Ltd.|Engineer – programmer|Engineer commis-sioning, then transferred to the position of Deputy Head of Department.|CoDeSys, Step-7, masterscada, PhotoShop, JavaScript (basic), С# |
+|July 2008 -September 2008|JSC ”SIS ENGINEERING ”|Engineer – programmer |PLC programming, creating of projects of scada - system, commissioning.|CoDeSys, Step-7, С# |
+|TJune 2007 - June 2008|JSC ”HOLODON”|Job titlen|PLC programming, program-ming of parametric controllers, commissioning, writing docu-mentation and operation manu-als, assembling of control cabi-nets and configuring modules of input-output, development of algorithms for control of output devices |CoDeSys|
+|February 2004-June 2007|Concern “PLA-NAR”, Bureau ac-curacy of electronic engineering|JEngineer-constructor|Setting up circuit boards,  as-sembling of control cabinets, writing documentation, solder-ing|AutoCad, Isagraf |
 
 ## Education
 
