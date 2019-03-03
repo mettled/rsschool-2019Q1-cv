@@ -34,7 +34,9 @@ Main qualities:
 |Masterscada|well|Scada system|
 |Isagraf |basic|Scada system|
 |IX|well|Scada system|
+
 ##### Knowledge of  programming languages
+
 |Skill|Level|Short description|
 | --- | --- | --- |
 |PHP |basic||
