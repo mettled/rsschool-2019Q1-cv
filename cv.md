@@ -4,12 +4,12 @@
 |Item|Value|
 |---|---|
 |Name|Romaniuk Sergey|
-Date of Birth|18.05.1981
-Mobile phone|+375 - 296437016
-e-mail|mettled@mail.ru
-Marital Status|married
-Address of residence|Republic of  Belarus, Minsk.
-Registration address|Republic of  Belarus, Minsk
+|Date of Birth|18.05.1981|
+|Mobile phone|+375 - 296437016|
+|e-mail|mettled@mail.ru|
+|Marital Status|married|
+|Address of residence|Republic of  Belarus, Minsk|
+|Registration address|Republic of  Belarus, Minsk|
 
 ## Summary
 
@@ -25,30 +25,30 @@ Main qualities:
 
 |Skill|Level|Short description|
 |---|---|---|
-|CoDeSys|proficiency - well|Software development environment for controllers
-|Step-7|proficiency - well|Software development environment for controllers
-|TiaPortal|proficiency - well|Software development environment for controllers
-|Wincc|well|Scada system
-|Tracemode |basic|Scada system
-|Masterscada|well|Scada system
-|Isagraf |basic|Scada system
+|CoDeSys|proficiency - well|Software development environment for controllers|
+|Step-7|proficiency - well|Software development environment for controllers|
+|TiaPortal|proficiency - well|Software development environment for controllers|
+|Wincc|well|Scada system|
+|Tracemode |basic|Scada system|
+|Masterscada|well|Scada system|
+|Isagraf |basic|Scada system|
 |IX|well|Scada system|
 ##### Knowledge of  programming languages
 |Skill|Level|Short description|
 |---|---|---|
-|PHP |basic|
-|HTML(CSS) |basic|
-|JavaScript |basic|
-|С# |basic|
+|PHP |basic||
+|HTML(CSS) |basic||
+|JavaScript |basic||
+|С# |basic||
 Trained in EPAM course SERVICENOW
 
 
 ## Code examples
 
-[https://github.com/mettled/advanced-zeros/](https://github.com/mettled/advanced-zeros/blob/master/src/index.js)
-[https://github.com/mettled/money-exchange/](https://github.com/mettled/money-exchange/blob/master/src/index.js)
-[https://github.com/mettled/love-triangle/](https://github.com/mettled/love-triangle/blob/master/src/index.js)
-[hhttps://github.com/mettled/warmup/](https://github.com/mettled/warmup/blob/master/src/index.js)
+- [https://github.com/mettled/advanced-zeros/](https://github.com/mettled/advanced-zeros/blob/master/src/index.js)
+- [https://github.com/mettled/money-exchange/](https://github.com/mettled/money-exchange/blob/master/src/index.js)
+- [https://github.com/mettled/love-triangle/](https://github.com/mettled/love-triangle/blob/master/src/index.js)
+- [hhttps://github.com/mettled/warmup/](https://github.com/mettled/warmup/blob/master/src/index.js)
 
 
 ## Experience
