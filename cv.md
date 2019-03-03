@@ -41,12 +41,8 @@ Main qualities:
 | --- | --- | --- |
 |PHP|basic|-|
 |HTML(CSS)|medium|-|
-|TiaPortal|proficiency - well|Software development environment for controllers|
-|Wincc|well|Scada system|
-|Tracemode |basic|Scada system|
-|Masterscada|well|Scada system|
-|Isagraf |basic|Scada system|
-|IX|well|Scada system|
+|JavaScript|basic|-|
+|С#|basic|-|
 
 
 
