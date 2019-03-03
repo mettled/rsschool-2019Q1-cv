@@ -2,7 +2,7 @@
 
 ## **Personal Information**
 
-|Item|Value|
+| Item | Value |
 | --- | --- |
 |Name|Romaniuk Sergey|
 |Date of Birth|18.05.1981|
@@ -24,7 +24,7 @@ Main qualities:
 ## Skills 
 ##### Knowledge of software
 
-|Skill|Level|Short description|
+| Skill | Level | Short description |
 | --- | --- | --- |
 |CoDeSys|proficiency - well|Software development environment for controllers|
 |Step-7|proficiency - well|Software development environment for controllers|
@@ -37,7 +37,7 @@ Main qualities:
 
 ##### Knowledge of  programming languages
 
-|Skill|Level|Short description|
+| Skill | Level | Short description |
 | --- | --- | --- |
 |PHP |basic||
 |HTML(CSS) |basic||
