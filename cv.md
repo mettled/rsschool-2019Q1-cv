@@ -39,10 +39,7 @@ Main qualities:
 
 | Skill | Level | Short description |
 | --- | --- | --- |
-|PHP |basic|-|
-|HTML(CSS) |basic|-|
-|JavaScript |basic|-|
-|С# |basic|-|
+
 
 
 Trained in EPAM course SERVICENOW
