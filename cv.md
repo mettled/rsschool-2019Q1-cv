@@ -25,7 +25,7 @@ Main qualities:
 ##### Knowledge of software
 
 |Skill|Level|Short description|
-|---|---|---|
+| --- | --- | --- |
 |CoDeSys|proficiency - well|Software development environment for controllers|
 |Step-7|proficiency - well|Software development environment for controllers|
 |TiaPortal|proficiency - well|Software development environment for controllers|
@@ -36,7 +36,7 @@ Main qualities:
 |IX|well|Scada system|
 ##### Knowledge of  programming languages
 |Skill|Level|Short description|
-|---|---|---|
+| --- | --- | --- |
 |PHP |basic||
 |HTML(CSS) |basic||
 |JavaScript |basic||
@@ -55,7 +55,7 @@ Trained in EPAM course SERVICENOW
 ## Experience
 
 |Time of work|Company|Job titlen|Duties|Skills|
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 |February 2015 - pres-sent|”Sipcom” Ltd.|Engineer – programmer|Communication with the cus-tomer, selection of equipment and ect.|CoDeSys, Step-7, masterscada, PhotoShop, JavaScript (basic), С# |
 |January 2010 - February 2015|”Izovac” Ltd.|Engineer – programmer the 1st category|Commissioning, programming of controllers and creating pro-jects scada-systems for sputter-ing system. Analyzing of the equipment for  projects. Writing in C# libraries for scada-systems. |CoDeSys, Step-7, masterscada, PhotoShop, JavaScript (basic), С#|
 |October 2008-January 2010|”SPb-Avtomatika” Ltd.|Engineer – programmer|Engineer commis-sioning, then transferred to the position of Deputy Head of Department.|CoDeSys, Step-7, masterscada, PhotoShop, JavaScript (basic), С# |
@@ -66,7 +66,7 @@ Trained in EPAM course SERVICENOW
 ## Education
 
 |Years of education|University|Faculty|Specialty|
-|---|---|---|---|
+| --- | --- | --- | --- |
 |1998/2004|Belarusian State University of Informatics and Radioe-lectronics|Information technologies and control|Automatic control in technical systems|
 
 Trained in EPAM course SERVICENOW
