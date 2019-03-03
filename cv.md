@@ -39,6 +39,14 @@ Main qualities:
 
 | Skill | Level | Short description |
 | --- | --- | --- |
+|CoDeSys|proficiency - well|Software development environment for controllers|
+|Step-7|proficiency - well|Software development environment for controllers|
+|TiaPortal|proficiency - well|Software development environment for controllers|
+|Wincc|well|Scada system|
+|Tracemode |basic|Scada system|
+|Masterscada|well|Scada system|
+|Isagraf |basic|Scada system|
+|IX|well|Scada system|
 
 
 
