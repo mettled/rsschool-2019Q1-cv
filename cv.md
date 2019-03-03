@@ -43,6 +43,8 @@ Main qualities:
 |HTML(CSS) |basic|-|
 |JavaScript |basic|-|
 |С# |basic|-|
+
+
 Trained in EPAM course SERVICENOW
 
 
