@@ -1,6 +1,7 @@
 # RESUME
 
 ## **Personal Information**
+
 |Item|Value|
 |---|---|
 |Name|Romaniuk Sergey|
@@ -67,6 +68,7 @@ Trained in EPAM course SERVICENOW
 |Years of education|University|Faculty|Specialty|
 |---|---|---|---|
 |1998/2004|Belarusian State University of Informatics and Radioe-lectronics|Information technologies and control|Automatic control in technical systems|
+
 Trained in EPAM course SERVICENOW
 
 ## Knowledge of foreign languages
