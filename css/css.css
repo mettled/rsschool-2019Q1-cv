@@ -1,6 +1,7 @@
 body{
     width: 1024px;
     margin: auto;
+    font-family: cursive;
 }
 
 .personal{
@@ -29,6 +30,7 @@ thead tr th{
 }
 
 tbody tr td{
-    padding-left: 30px;
-    border-left: 1px solid #DDD;
+    padding: 8px;
+
+    border-bottom: 1px solid #DDD;
 }
