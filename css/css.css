@@ -38,3 +38,11 @@ tbody tr td{
 
     border-bottom: 1px solid #DDD;
 }
+
+.footer{
+    margin-top: 82px;
+    border-top: 1px solid #DDD;
+    padding: 20px 0;
+    font-size: 14px;
+    font-family: the time new roman;
+}
