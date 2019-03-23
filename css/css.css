@@ -1,0 +1,48 @@
+body{
+    width: 1024px;
+    margin: auto;
+    font-family: cursive;
+}
+
+.personal{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h2{
+
+    text-decoration:underline;
+}
+
+.personal-t{
+    width: 50%;
+    margin-right: 20px;
+}
+table{
+    width: 100%;
+    text-align: justify;
+}
+
+thead{
+    background-color: #cbddfb;
+}
+
+thead tr th{
+    text-align: center;
+    border-bottom:1px solid #DDD;
+}
+
+tbody tr td{
+    padding: 8px;
+
+    border-bottom: 1px solid #DDD;
+}
+
+.footer{
+    margin-top: 82px;
+    border-top: 1px solid #DDD;
+    padding: 20px 0;
+    font-size: 14px;
+    font-family: the time new roman;
+}
