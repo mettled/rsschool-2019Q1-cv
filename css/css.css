@@ -24,6 +24,10 @@ table{
     text-align: justify;
 }
 
+thead{
+    background-color: #cbddfb;
+}
+
 thead tr th{
     text-align: center;
     border-bottom:1px solid #DDD;
